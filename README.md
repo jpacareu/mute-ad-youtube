@@ -2,7 +2,7 @@
 
 ## Description
 
-This extension mutes the adds that appear on youtube videos. For those adds that take 15 seconds to skip, this extension will mute the audio and put the screen **full black** (style opacity: 0).
+This Chrome extension automatically mutes advertisements and displays a completely black screen whenever a YouTube ad pops. Enjoy "uninterrupted" viewing without the distraction of ads.
 
 ## Demo
 
