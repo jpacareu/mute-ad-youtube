@@ -11,4 +11,4 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Log GitHub Event
-        run: echo "${{ toJson(github.event) }}"
+        run: echo "${{ toJson(github) }}"
