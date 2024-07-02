@@ -12,6 +12,5 @@ jobs:
     steps:
       - name: Log GitHub Event
         run: echo "${{ toJson(github) }}"
-    steps:
       - name: Paca
         run: echo "Paca mundo"
