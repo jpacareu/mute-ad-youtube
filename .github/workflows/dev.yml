@@ -15,5 +15,3 @@ jobs:
     steps:
       - name: Paca
         run: echo "Paca mundo"
-
-refs/heads/main
